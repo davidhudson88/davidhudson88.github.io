@@ -2,9 +2,13 @@
 
 ---
 
-### Econometrics
+## Econometrics
 
-[Project 1 Title](https://github.com/davidhudson88/Difference-in-Differences/blob/main/DiffnDiff.ipynb)
+### Differences-in-Differences
+
+My replication of [***Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania***](https://davidcard.berkeley.edu/papers/njmin-aer.pdf) by David Card and Alan B. Krueger (1994).
+[![View on GitHub](https://github.com/davidhudson88/Difference-in-Differences/blob/main/DiffnDiff.ipynb)
+
 <img src="https://github.com/davidhudson88/Difference-in-Differences/blob/main/figure1partareplication.PNG"/>
 
 

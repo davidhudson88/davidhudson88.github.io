@@ -23,6 +23,7 @@ My replication of [***Minimum Wages and Employment: A Case Study of the Fast-Foo
 <img src="https://github.com/davidhudson88/Difference-in-Differences/blob/main/figure1partareplication.PNG"/>
 
 
+<center><img src="https://github.com/davidhudson88/Difference-in-Differences/blob/main/figure1partareplication.PNG"/></center>
 
 
 ---

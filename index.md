@@ -1,7 +1,17 @@
 ## Portfolio
 
----
+This portfolio is still a work in progress. I am posting past projects as I review them once more before posting them.
 
+---
+## Machine Learning
+
+### Customer Churn
+
+Predicting the which customers of an insurance company are likely to default on the premium renewal. This project was my capstone project for my Data Science certificate with Great Learning and University of Texas at Austin.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/davidhudson88/Customer_Churning_Classifier/blob/main/Captsone_InsurancePremiumRenewal_Final.ipynb)
+
+---
 ## Econometrics
 
 ### Differences-in-Differences

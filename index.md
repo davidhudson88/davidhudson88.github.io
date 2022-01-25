@@ -20,7 +20,7 @@ My replication of [***Minimum Wages and Employment: A Case Study of the Fast-Foo
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/davidhudson88/Difference-in-Differences/blob/main/DiffnDiff.ipynb)
 
-<img src="https://github.com/davidhudson88/Difference-in-Differences/blob/main/figure1partareplication.png"/>
+<img src="figure1partareplication.PNG"/>
 
 
 ---

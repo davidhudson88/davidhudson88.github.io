@@ -1,11 +1,19 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: <p align="center"> David Hudson </p>
+
+logo: "https://github.com/davidhudson88/davidhudson88.github.io/blob/main/_Images/rsz_1linkedinprofile2.jpg?raw=true"
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/davidbhudson/">LinkedIn</a> |
+  <a href="https://vrfy.digital/TChSV" >Data Science Certificate</a> 
+  </p>
+  
+  <p align="justify">  
+  Data Science and Economics enthusiast with a MSc Degree in Quantitative Economics  and certified in Data Science.
   <br><br>
-  Second description 
+  Currently looking for new employment opportunities to put my skills to use solving business and social needs.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  </p>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

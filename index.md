@@ -25,7 +25,7 @@ My replication of [***Minimum Wages and Employment: A Case Study of the Fast-Foo
 
 ### Regression Discontinuity Design
 
-My replication of [***The Minimum Legal Drinking Age and Crime***](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477871/#SD1) by Christopher Carpenter and Carlos Dobkin (1994).
+My replication of [***The Minimum Legal Drinking Age and Crime***](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477871/#SD1) by Christopher Carpenter and Carlos Dobkin (2015 ).
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/davidhudson88/Carpenter_DopkinReplication/blob/main/MLDA%26Crime.ipynb)
 

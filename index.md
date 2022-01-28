@@ -7,7 +7,7 @@ This portfolio is still a work in progress. I am posting past projects as I revi
 
 ### Customer Churn
 
-Predicting the which customers of an insurance company are likely to default on the premium renewal. This project was my capstone project for my Data Science certificate with Great Learning and University of Texas at Austin.
+Predicting which customers of an insurance company are likely to default on the premium renewal. This project was my capstone project for my Data Science certificate with Great Learning and University of Texas at Austin.
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/davidhudson88/Customer_Churning_Classifier/blob/main/Captsone_InsurancePremiumRenewal_Final.ipynb)
 

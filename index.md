@@ -29,7 +29,7 @@ My replication of [***The Minimum Legal Drinking Age and Crime***](https://www.n
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/davidhudson88/Carpenter_DopkinReplication/blob/main/MLDA%26Crime.ipynb)
 
-<img src="https://raw.githubusercontent.com/davidhudson88/Carpenter_DopkinReplication/main/Images/MLDAnCrimeGraph1.PNG"/>
+<img src="https://raw.githubusercontent.com/davidhudson88/Carpenter_DopkinReplication/main/Images/MLDAandCrimeGraph1.PNG"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

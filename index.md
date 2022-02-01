@@ -5,9 +5,15 @@ This portfolio is still a work in progress. I am posting past projects as I revi
 ---
 ## Machine Learning
 
+### House Price Preditcion
+
+Predicting house prices for those sold in King County, WA in the years 2014 and 2015. This was my second capstone project for my Data Science certificate with Great Learning and University of Texas at Austin.
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/davidhudson88/House_Price_Predictions/blob/main/Capstone_HousingPrices_2022.ipynb)
+
 ### Customer Churn
 
-Predicting which customers of an insurance company are likely to default on the premium renewal. This project was my capstone project for my Data Science certificate with Great Learning and University of Texas at Austin.
+Predicting which customers of an insurance company are likely to default on the premium renewal. This was my first capstone project for my Data Science certificate with Great Learning and University of Texas at Austin.
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/davidhudson88/Customer_Churning_Classifier/blob/main/Captsone_InsurancePremiumRenewal_Final.ipynb)
 

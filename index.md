@@ -31,7 +31,7 @@ My replication of [***Minimum Wages and Employment: A Case Study of the Fast-Foo
 
 ### Regression Discontinuity Design
 
-My replication of [***The Minimum Legal Drinking Age and Crime***](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477871/#SD1) by Christopher Carpenter and Carlos Dobkin (2015 ). This replication showcases my understanding of the potential for regression discontinuity design to estimate causal impact when random assignment is not possible, but a when a discontinuous trend occurs along an otherwise smooth variable of interest where a cutoff is imposed to determine treatment of a individual or group.
+My replication of [***The Minimum Legal Drinking Age and Crime***](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477871/#SD1) by Christopher Carpenter and Carlos Dobkin (2015 ). This replication showcases my understanding of the potential for regression discontinuity design to estimate causal impact when randomized assignment is not possible, but a discontinuous trend occurs along an otherwise smooth variable of interest where a cutoff is imposed to determine treatment of a individual or group.
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/davidhudson88/Carpenter_DopkinReplication/blob/main/MLDA%26Crime.ipynb)
 

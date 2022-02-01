@@ -17,7 +17,7 @@ Predicting which customers of an insurance company are likely to default on the 
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/davidhudson88/Customer_Churning_Classifier/blob/main/Captsone_InsurancePremiumRenewal_Final.ipynb)
 
-
+---
 ## Econometrics
 
 ### Differences-in-Differences

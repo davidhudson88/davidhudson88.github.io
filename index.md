@@ -9,6 +9,8 @@ This portfolio is still a work in progress. I am posting past projects as I revi
 
 Predicting house prices for those sold in King County, WA in the years 2014 and 2015. This was my second capstone project for my Data Science certificate with Great Learning and University of Texas at Austin. I experimented with multiple regressors including OLS Regression, Ridge Regression, Lasso Regression, Random Forests, AdaBoost, GradientBoost, and XGBoost and opted for the XGBoost regressor that had a R-square value 0f 0.81 and a RMSE value of 157,407 on the test data set. I am still unsatisfied with these results and plan to use GPS coordinates to estimate the distance to the nearest hospital, school, fire department, etc. for each house. I consider this project to still be a work in progress.
 
+<img src="https://github.com/davidhudson88/House_Price_Predictions/blob/main/Tableau_HousePrices2.png/>
+
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/davidhudson88/House_Price_Predictions/blob/main/Capstone_HousingPrices_Final.ipynb)
 
 ### Customer Churn

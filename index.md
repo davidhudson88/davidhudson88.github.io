@@ -13,7 +13,7 @@ Predicting house prices for those sold in King County, WA in the years 2014 and 
 
 View the Tableau Dashboard at the link below:
 
-[![Tableau](https://public.tableau.com/app/profile/david.hudson8014/viz/KingCountyHousePrices_16445348212010/KingCountDashboard?publish=yes)
+[![Tableau]](https://public.tableau.com/app/profile/david.hudson8014/viz/KingCountyHousePrices_16445348212010/KingCountDashboard?publish=yes)
 
 View Jupyter Notebook at the link below:
 

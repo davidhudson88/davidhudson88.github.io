@@ -11,6 +11,10 @@ Predicting house prices for those sold in King County, WA in the years 2014 and 
 
 <img src="https://raw.githubusercontent.com/davidhudson88/davidhudson88.github.io/main/Images/Tableau_HousePrices3.png"/>
 
+View the Tableau Dashboard at the link below:
+https://public.tableau.com/app/profile/david.hudson8014/viz/KingCountyHousePrices_16445348212010/KingCountDashboard?publish=yes
+
+View Jupyter Notebook at the link below:
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://nbviewer.org/github/davidhudson88/House_Price_Predictions/blob/main/Capstone_HousingPrices_Final.ipynb)
 
 ### Customer Churn
